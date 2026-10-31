@@ -1,0 +1,98 @@
+{
+  "scope": "Static checks only; no notebook/application/scientific code executed",
+  "python_parsed": 115,
+  "python_errors": [],
+  "json_parsed": 82,
+  "json_errors": [],
+  "archive_checks": [
+    {
+      "path": "evidence/capsules/Outdoor_Recenter_Component_2026-10-30.zip",
+      "entries": 88,
+      "crc_bad": null
+    },
+    {
+      "path": "evidence/capsules/Outdoor_Factor_Cover_Component_2026-10-30.zip",
+      "entries": 79,
+      "crc_bad": null
+    },
+    {
+      "path": "evidence/capsules/Outdoor_Factorized_Root_Attempt_2026-10-30.zip",
+      "entries": 244,
+      "crc_bad": null
+    },
+    {
+      "path": "evidence/capsules/Outdoor_Factorized_Root_Attempt_2026-10-30.zip!Outdoor_Normalized_Tree_Attempt_2026-10-30.zip",
+      "entries": 78,
+      "crc_bad": null
+    }
+  ],
+  "secret_findings": [
+    {
+      "path": "docs/snippet_2_source.txt",
+      "pattern": "provider_key",
+      "line": 102886,
+      "review": "Confirmed same fabricated sanitization test string sk-this-must-not-escape; not a live credential. Preserved source unchanged."
+    },
+    {
+      "path": "application/original/Smart_Dust_Lab_v2_7_Fast_Exploration.ipynb",
+      "pattern": "provider_key",
+      "line": 107322,
+      "review": "Confirmed same fabricated sanitization test string sk-this-must-not-escape; not a live credential. Preserved source unchanged."
+    },
+    {
+      "path": "application/restored/tests_smart_dust/test_api_diagnostics_v24.py",
+      "pattern": "provider_key",
+      "line": 175,
+      "review": "Confirmed same fabricated sanitization test string sk-this-must-not-escape; not a live credential. Preserved source unchanged."
+    }
+  ],
+  "local_index_links": [
+    {
+      "path": "presentation/Outdoor_Interactive_Replay.html",
+      "exists": true
+    },
+    {
+      "path": "presentation/Outdoor_Optical_Research_Preview.mp4",
+      "exists": true
+    },
+    {
+      "path": "presentation/OUTDOOR_REPLAY.md",
+      "exists": true
+    },
+    {
+      "path": "docs/OUTDOOR_APPLICATION_EXPLANATION.md",
+      "exists": true
+    },
+    {
+      "path": "application/restored/README.md",
+      "exists": true
+    },
+    {
+      "path": "application/original/Smart_Dust_Lab_v2_7_Fast_Exploration.ipynb",
+      "exists": true
+    },
+    {
+      "path": "docs/SCIENCE_AND_STATUS.md",
+      "exists": true
+    },
+    {
+      "path": "docs/REPRODUCTION.md",
+      "exists": true
+    },
+    {
+      "path": "README.md",
+      "exists": true
+    }
+  ],
+  "notebook_saved_outputs": 0,
+  "limits": [
+    "No runtime dependency installation or simulation",
+    "Limited secret-pattern scan, not a security audit",
+    "Browser visual QA unavailable; upstream Node mock and MP4 decode/mapping results retained",
+    "Numerical capsule portability limited by original absolute paths and pinned runtime"
+  ],
+  "restored_assets": 288,
+  "copied_input_hashes_match": true,
+  "literal_private_launch_url_scan": "No ngrok/trycloudflare URLs or owner-key assignments found in restored validation records; source generation code retained.",
+  "offline_replay_external_dependencies": []
+}

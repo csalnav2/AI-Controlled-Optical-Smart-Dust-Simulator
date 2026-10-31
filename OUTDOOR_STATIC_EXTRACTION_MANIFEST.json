@@ -1,0 +1,1455 @@
+{
+  "method": "Extract literal %%writefile body only; no notebook execution",
+  "files": [
+    {
+      "cell": 4,
+      "path": "smartdust_lab/particle_geometry.py",
+      "sha256": "d99d0caa8fe5f2e5f352e07f6fc8c381a73ea5ccd2297d495b0b51cb827146af"
+    },
+    {
+      "cell": 6,
+      "path": "smartdust_lab/particle_physics.py",
+      "sha256": "6fce83267f06566233f249117398a5c07d85de3fa8e3d1a62f5192aaa8e66e71"
+    },
+    {
+      "cell": 8,
+      "path": "smartdust_lab/particle_camera.py",
+      "sha256": "1add0770c65124cf48ca335578b14008df7598d7a924484d6ddc834ebd4e8629"
+    },
+    {
+      "cell": 10,
+      "path": "smartdust_lab/particle_cnn.py",
+      "sha256": "6084a5bc1be9646a2ab9628d01d8968496a495a639219bc4ca27423e1b39f1a3"
+    },
+    {
+      "cell": 12,
+      "path": "tools/train_particle_cnn.py",
+      "sha256": "774ffcd7d8010515fadbb7b5a7c5e0534d31602f0eca6d69d2deb28788f7bc50"
+    },
+    {
+      "cell": 14,
+      "path": "smartdust_lab/static/particle-video.js",
+      "sha256": "7ad7e5191e72f48c54a562706e4c0be132c3e59d36a289f954fa4078c056e650"
+    },
+    {
+      "cell": 16,
+      "path": "smartdust_lab/particle_api.py",
+      "sha256": "0eb6841e3b61f74b8a03fac9bee3981554d641e4e591087ed1bf0a39ba022e6c"
+    },
+    {
+      "cell": 18,
+      "path": "smartdust_lab/static/volcano.js",
+      "sha256": "9ca765ee46499a482f40b345acae10dd720413732f66a0fb085e2595ab08897a"
+    },
+    {
+      "cell": 20,
+      "path": "smartdust_lab/static/particle-ui.js",
+      "sha256": "e5d5de9d4085b281f9ea8e843e0127f27ae91a80ae860a1e70a1f6a8796d730c"
+    },
+    {
+      "cell": 22,
+      "path": "smartdust_lab/static/particle-render.js",
+      "sha256": "12559fda02dc93d183b710a48a200eecb270b4e9fd5d3a5000516afb2416bc6d"
+    },
+    {
+      "cell": 24,
+      "path": "smartdust_lab/static/particle-inspector.js",
+      "sha256": "4d6cf42e6863fa68a400ab42e4c560c34015b9e3ed9d68373391199d1c39f6aa"
+    },
+    {
+      "cell": 26,
+      "path": "smartdust_lab/static/particle.css",
+      "sha256": "0f77f5bb4404e3a788ef08d5d738fefdda28a5b140ba57913cbf710b6c3775a3"
+    },
+    {
+      "cell": 28,
+      "path": "smartdust_lab/smart_dust_main.py",
+      "sha256": "fab20dd2cd90c60e788ac066adcb6c7dd114e966a7995edfb1981b0dacc177b1"
+    },
+    {
+      "cell": 30,
+      "path": "run_smart_dust.py",
+      "sha256": "77f99eae069b8ca1bf0c41e33887ec603370f50c2000b2972c79719ca8e0db63"
+    },
+    {
+      "cell": 32,
+      "path": "smartdust_lab/config.py",
+      "sha256": "8af293e856861effd8fc62ce8666f587fae273c348682c21ddcb6a2ea0609217"
+    },
+    {
+      "cell": 34,
+      "path": "smartdust_lab/runtime.py",
+      "sha256": "d1771a99c6496fe283b152dfe60ac358d5f39cadc501bc825097d0789b356dd9"
+    },
+    {
+      "cell": 36,
+      "path": "smartdust_lab/live_api.py",
+      "sha256": "32363600b4fe4ee999c6b1507de8e0ffc304619f3407f156bd7c0a011a49b48f"
+    },
+    {
+      "cell": 38,
+      "path": "smartdust_lab/static/live-voice.js",
+      "sha256": "18d0de9feb2e02663c713e1dd0228c221c784e074c04164941314f0cf818c883"
+    },
+    {
+      "cell": 40,
+      "path": "smartdust_lab/copilot.py",
+      "sha256": "793124510e7e22eef251e84649fec0e2c2c8ce9d4a23e1a50550e94b38c8aceb"
+    },
+    {
+      "cell": 42,
+      "path": "smartdust_lab/mcts.py",
+      "sha256": "daff201d58b45da6ab140b67ea6cbc6db87c775f1df7c3a99149332757177bd9"
+    },
+    {
+      "cell": 44,
+      "path": "smartdust_lab/latent.py",
+      "sha256": "dc6e821b1988e4a27d7184f1843d2bb432ca106c1e72840f3ac6ca8692e94ff6"
+    },
+    {
+      "cell": 46,
+      "path": "smartdust_lab/hypergraph_memory.py",
+      "sha256": "b965d637306937755fde888081efd77d3c54cb70e2f20c0a5ffcc8de3a9a4154"
+    },
+    {
+      "cell": 48,
+      "path": "smartdust_lab/meta_improvement.py",
+      "sha256": "96493b04af6f3bb8171ded70719d3a174e3a20ba5003fb7b7a1f3f9494ec62df"
+    },
+    {
+      "cell": 50,
+      "path": ".env.example",
+      "sha256": "cfc8f8161fac47668653a0b0e57b01d6d7df9321320e694faeb3d9ed77c7a83d"
+    },
+    {
+      "cell": 52,
+      "path": "LICENSE",
+      "sha256": "66b9aab865db9240e6fd73d6f029545421321f0f98db18daabeeadd07af54766"
+    },
+    {
+      "cell": 54,
+      "path": "MANIFEST.in",
+      "sha256": "6d6f2f393519b538d5c5973815f4f358e1dbf3eea381b41c1feee8c2795c3f4e"
+    },
+    {
+      "cell": 56,
+      "path": "PLAYCANVAS_LICENSE.txt",
+      "sha256": "42fa51ddd556be151a29f381fb97ee975825dcc454e805ea3ea9c079cca04d34"
+    },
+    {
+      "cell": 58,
+      "path": "README.md",
+      "sha256": "87770d304f7a21887dcfaf246db084b85e947e546b748d487f6eaa06cc412829"
+    },
+    {
+      "cell": 60,
+      "path": "READ_SOURCE_FIRST.md",
+      "sha256": "a52437dd7860ef93aa9057e0b96f52f019be5c1cb5ca194800b566952cbf4789"
+    },
+    {
+      "cell": 62,
+      "path": "docs/SMART_DUST_PHYSICS.md",
+      "sha256": "959e298d27a97cbba7a45e1d4e235f2b672a9377c2761b3695aec07add3abff3"
+    },
+    {
+      "cell": 64,
+      "path": "smartdust_lab/__init__.py",
+      "sha256": "4bdb211fa69564a80888e51e2860b05fcc5024f916c665d2bc7cf66af1c5f6a0"
+    },
+    {
+      "cell": 66,
+      "path": "smartdust_lab/__main__.py",
+      "sha256": "a2f1cebf55503c75fec43b4a288f411bd884e8f04e543c2f804b37b3757d854f"
+    },
+    {
+      "cell": 68,
+      "path": "smartdust_lab/ai_diagnostics.py",
+      "sha256": "f1f6947f1ca0e56aab81d666a1ade7407fac08acebf45e420b7cbc60c2cd8a96"
+    },
+    {
+      "cell": 70,
+      "path": "smartdust_lab/app.py",
+      "sha256": "57fc7d5e3c8a0488c691f6bb9ae3918b4c7099b618e937c14c69e10270cb0cd6"
+    },
+    {
+      "cell": 72,
+      "path": "smartdust_lab/audit.py",
+      "sha256": "fe7b11d1d4a7d3d6692860c5eb36f0de50fe99f00451d497e21c0dbd4c8f3b30"
+    },
+    {
+      "cell": 74,
+      "path": "smartdust_lab/autonomy.py",
+      "sha256": "fcbe303cfdac4980a8972e34d8861f07ed48f573ed0c2abb8c29b274d227aeac"
+    },
+    {
+      "cell": 76,
+      "path": "smartdust_lab/autonomy_chat.py",
+      "sha256": "1b0fa417bfa4e7607501f9c0f5cafbce499eb4e7e6264ba2f3a185535ff0cee6"
+    },
+    {
+      "cell": 78,
+      "path": "smartdust_lab/backends/__init__.py",
+      "sha256": "e37c33b3a73ae0096089463f1ca0e93e78dab9265b3327c32fad70fdb42a5d11"
+    },
+    {
+      "cell": 80,
+      "path": "smartdust_lab/backends/pyflyt.py",
+      "sha256": "3a13a367ddf240324d19a53bd75a07c448e23c3eda2c27b50f25685515562b37"
+    },
+    {
+      "cell": 82,
+      "path": "smartdust_lab/cloak_design.py",
+      "sha256": "d78b09aa5b11a44b3f13277ab0f34ac9400d2be305e65cf8fb37bb64a36de723"
+    },
+    {
+      "cell": 84,
+      "path": "smartdust_lab/cloak_environment.py",
+      "sha256": "4c356e549e1fb855c6f242c9e4a43761c7b4467cbfbdd16ca0a40a0ec309cc07"
+    },
+    {
+      "cell": 86,
+      "path": "smartdust_lab/cloak_horizon.py",
+      "sha256": "e8bfff5ca9f131ce6d1f6f236ed17503a855d196d216493db037938de382ccda"
+    },
+    {
+      "cell": 88,
+      "path": "smartdust_lab/cloak_minimax.py",
+      "sha256": "8936277f79c73e3669cdc83439388562e9e9c90e8746845558140ee1d388d695"
+    },
+    {
+      "cell": 90,
+      "path": "smartdust_lab/cloak_optics.py",
+      "sha256": "ef146bfd5455561b1420682110858751ebcfe3d868b955bb655d7063b0eb2832"
+    },
+    {
+      "cell": 92,
+      "path": "smartdust_lab/cloak_reference.py",
+      "sha256": "51cf835d0b1409fca0baecb44b6c77d79d33690eb06c8a59e2b059b24d202ff1"
+    },
+    {
+      "cell": 94,
+      "path": "smartdust_lab/cloak_robust.py",
+      "sha256": "ba8df5fecf82321f8b629ca0855af0f875ea9737d6ffc715caf5a7c67db8ef3a"
+    },
+    {
+      "cell": 96,
+      "path": "smartdust_lab/cloak_spsa.py",
+      "sha256": "d3dc52ff7d4d8c749f1ef4e7d6771549487cf2f211550bb43a4aa30c450800bd"
+    },
+    {
+      "cell": 98,
+      "path": "smartdust_lab/cloak_stress.py",
+      "sha256": "4517af77629805efaf55f34fe5d17c4dc9a6e89c22c200fe99d298f36b9af87e"
+    },
+    {
+      "cell": 100,
+      "path": "smartdust_lab/cloak_sustainability.py",
+      "sha256": "eb350c59f3a9eafd58cc4b216ab295bace2f78c22d9f273a691fcac2bc09c9dc"
+    },
+    {
+      "cell": 102,
+      "path": "smartdust_lab/cloaking.py",
+      "sha256": "7646c5a6f653dc7c8277805e7693814a26d80cd8971ac07a05bb2d0638cdc3e0"
+    },
+    {
+      "cell": 104,
+      "path": "smartdust_lab/commands.py",
+      "sha256": "4af5d8b4c0e5b3ab10a0e44c5b7e12e75b227287eefcec524726ecb0f5b7ed9d"
+    },
+    {
+      "cell": 106,
+      "path": "smartdust_lab/controller.py",
+      "sha256": "24b5db68c09225143d8760ad12ba7ac56f7418f1cf8734f0b10bf6499177e9b2"
+    },
+    {
+      "cell": 108,
+      "path": "smartdust_lab/environment.py",
+      "sha256": "f184fa2b777c9e490905fcd317b861ee8627b08635a11114af38fd9a69552090"
+    },
+    {
+      "cell": 110,
+      "path": "smartdust_lab/fleet.py",
+      "sha256": "dc4dcdece9a01ca95b09600e1da8a2070cdda3f242d0c56cac39ba041f7f157a"
+    },
+    {
+      "cell": 112,
+      "path": "smartdust_lab/fleet_chat.py",
+      "sha256": "84f2f24c6e03b0a9e9bc76792ffe446cc67ad04ea9cb03e21989731b748c6a4b"
+    },
+    {
+      "cell": 114,
+      "path": "smartdust_lab/fleet_commands.py",
+      "sha256": "4394bd458983ab2c5c0618d9d490952077b9b22694cc8d438a9bb9850a5bea17"
+    },
+    {
+      "cell": 116,
+      "path": "smartdust_lab/flight_compatibility.py",
+      "sha256": "ddf32d357e89792af2a83a9b4668748ef5524398854c5ddc259318f9b73e8646"
+    },
+    {
+      "cell": 118,
+      "path": "smartdust_lab/flight_council.py",
+      "sha256": "aa7b128f1146f0131ac09438274bfb6ee278411a49e0ac8460406a7065539706"
+    },
+    {
+      "cell": 120,
+      "path": "smartdust_lab/flight_session.py",
+      "sha256": "7059d7a65b7383aa13b6e7fe6dedf6e02e4985293113e1857645abc608a5ccca"
+    },
+    {
+      "cell": 122,
+      "path": "smartdust_lab/hybrid.py",
+      "sha256": "58507d49e51d284bf818b97dfef04e6a714d97f36fe59e3180e16b9488ba4295"
+    },
+    {
+      "cell": 124,
+      "path": "smartdust_lab/hyperskill_structural.py",
+      "sha256": "b954019616fb7570645a2bdb36ca5866fdbd76a56f6d45cc83d7ae4edb6dd585"
+    },
+    {
+      "cell": 126,
+      "path": "smartdust_lab/landscapes.py",
+      "sha256": "d16db6d32b4869c5dc80acce6d0cc073480cc7218f589f8ab0c829c578d5b5c2"
+    },
+    {
+      "cell": 128,
+      "path": "smartdust_lab/latent_atlas.py",
+      "sha256": "dbd73f0d5faa9201546d09659bf29685635d8a7edc85edc44b20e88adfb90421"
+    },
+    {
+      "cell": 130,
+      "path": "smartdust_lab/latent_rotor.py",
+      "sha256": "f57979799bbb874d8dd411d712d0832ff983193e8e1af832956401d06391b748"
+    },
+    {
+      "cell": 132,
+      "path": "smartdust_lab/learning_activity.py",
+      "sha256": "f194303dafe37c137bab820413efa8866b9f6dc2aff67fa93f334fabe795d57f"
+    },
+    {
+      "cell": 134,
+      "path": "smartdust_lab/live_world.py",
+      "sha256": "444380b18c35f5474b7b6303a802c4fe70beaabb91b5ebd7a603f6f2a3d20be1"
+    },
+    {
+      "cell": 136,
+      "path": "smartdust_lab/math3d.py",
+      "sha256": "3751a8d80977c1ce75a1b650a710ab34dced0c3341f3907b6120f1b1c30adc13"
+    },
+    {
+      "cell": 138,
+      "path": "smartdust_lab/memory.py",
+      "sha256": "c17cfc2eb9794aa80b4bcf62b85e1a611a75a92a955150d1b290a6783e7efeb2"
+    },
+    {
+      "cell": 140,
+      "path": "smartdust_lab/mission_commands.py",
+      "sha256": "2511d337d35133d545c2d4b250779babe69d3ff3825a4a755aae3788532e8d34"
+    },
+    {
+      "cell": 142,
+      "path": "smartdust_lab/models/particle_cnn.json",
+      "sha256": "d6a56a3d633a39e5b098cac5db96eee285a435ce60bfb7e4871cb3786b90c83f"
+    },
+    {
+      "cell": 144,
+      "path": "smartdust_lab/observability_probes.py",
+      "sha256": "12c0f2901eebc7c17d0149db17cd490b63099fa5168ac4a5ca4e77b75b0dd94b"
+    },
+    {
+      "cell": 146,
+      "path": "smartdust_lab/perception.py",
+      "sha256": "0b277731298877d50c86db33ea75e328cd741f3ad10c94b72e1ea6906e8a7f2b"
+    },
+    {
+      "cell": 148,
+      "path": "smartdust_lab/perception_api.py",
+      "sha256": "be0fe1bec1189b1ee1282e62c46d369479f4c570619650b3316a2d5740107ee5"
+    },
+    {
+      "cell": 150,
+      "path": "smartdust_lab/physics.py",
+      "sha256": "a11d01e49d203d722a70da7ed9b5162c8c5d33a019ec427c6ee275786e353481"
+    },
+    {
+      "cell": 152,
+      "path": "smartdust_lab/planet_appearance.py",
+      "sha256": "1ea094d890773d3e1be0b69e0a87d9a19109b29b1f2db5c03c590bc91565fdce"
+    },
+    {
+      "cell": 154,
+      "path": "smartdust_lab/planet_catalog.py",
+      "sha256": "19a935f3f5f4ab5d2418b97277ce98082ded1a2f4fb2dcecfab37a6ed9e3a25f"
+    },
+    {
+      "cell": 156,
+      "path": "smartdust_lab/reflection.py",
+      "sha256": "ff791d2f4f2f2ecf306c330fe58b4966de157dce7d64d62d92b2aeaf2c03eba2"
+    },
+    {
+      "cell": 158,
+      "path": "smartdust_lab/research.py",
+      "sha256": "c10aea483f6e89ba68b73b94fce613cf153f92e88759ad788018cf6c84ded1c0"
+    },
+    {
+      "cell": 160,
+      "path": "smartdust_lab/research_eval.py",
+      "sha256": "6cac432b34a38347d6b2a297534782794a29a84cd947c4ae66cd5a98bac98591"
+    },
+    {
+      "cell": 162,
+      "path": "smartdust_lab/research_lab.py",
+      "sha256": "a84c1be8ad3deb5f7a328333dabb7b9ff408a69458566aba2390e0ce3bcf145a"
+    },
+    {
+      "cell": 164,
+      "path": "smartdust_lab/resources.py",
+      "sha256": "e979b827ca42820f7a749e83a941d295b6f18e974a039fb8a4c3df6bd360e8ce"
+    },
+    {
+      "cell": 166,
+      "path": "smartdust_lab/scene_assets.py",
+      "sha256": "520df7a284ce3df12ffade0aa211e59c3b615986006ce45aded5699e2150b6bc"
+    },
+    {
+      "cell": 168,
+      "path": "smartdust_lab/schemas.py",
+      "sha256": "2ee38362a1e618ec3f6e382550524f3072b3d014cfafbd5c81c981d8fe46a656"
+    },
+    {
+      "cell": 170,
+      "path": "smartdust_lab/situation.py",
+      "sha256": "a2b70d8494ae041effd4b81954a743b077ce42e2d8df51813a336a64ab34253b"
+    },
+    {
+      "cell": 172,
+      "path": "smartdust_lab/static/app.js",
+      "sha256": "069b77a191187481a836a36101368a0451b4172e7b9b0f2feb91e68a5d3587f0"
+    },
+    {
+      "cell": 174,
+      "path": "smartdust_lab/static/camera-navigation.js",
+      "sha256": "32d715207ef7a1a2b0d982868d2b4b9ed63b88f91587dff5daa128ca536ce66b"
+    },
+    {
+      "cell": 176,
+      "path": "smartdust_lab/static/cinematic.js",
+      "sha256": "a36b905cf326905d5368b41c26fbd6e16f60a2dfd89cdd0ab2174cff48d498da"
+    },
+    {
+      "cell": 178,
+      "path": "smartdust_lab/static/cloak-provenance.json",
+      "sha256": "01338b08adbc5606a61a4ab4cd7a0d5b0f9032efadd3f226d64956a420d8c385"
+    },
+    {
+      "cell": 180,
+      "path": "smartdust_lab/static/cloak-render.js",
+      "sha256": "c0dcb2298655cd8701d8aa191f2717040ebc4cbc97e7a12d907e13f5de527bdb"
+    },
+    {
+      "cell": 182,
+      "path": "smartdust_lab/static/cloak-ui.css",
+      "sha256": "76e88e2719520b486e45580802448d550d746c5fb8baa00e3b8d4621a6cc8440"
+    },
+    {
+      "cell": 184,
+      "path": "smartdust_lab/static/cloak-ui.js",
+      "sha256": "0d3e230190396f98d03b961c3860e1ce09987c98142c52102bf1e5be38b002df"
+    },
+    {
+      "cell": 186,
+      "path": "smartdust_lab/static/cockpit-v0170.css",
+      "sha256": "6c8485c8086f7769be3a69a41f6dba970f00920b5537a6344db61564caa29097"
+    },
+    {
+      "cell": 188,
+      "path": "smartdust_lab/static/cockpit-v0170.js",
+      "sha256": "69afb82452a858ab5605c726a81fef5c596965eea3727a392d9557b295f3d48f"
+    },
+    {
+      "cell": 190,
+      "path": "smartdust_lab/static/dashboard-recovery.css",
+      "sha256": "dba8d0ee48f0997e85af91ac57a4156da827cdef19e90b956d46c46a1bf3eb88"
+    },
+    {
+      "cell": 192,
+      "path": "smartdust_lab/static/dashboard-recovery.js",
+      "sha256": "f2b93977b671874c2b882743af2db4897f1cba0e45539ba4ad2c7be9832a00c5"
+    },
+    {
+      "cell": 194,
+      "path": "smartdust_lab/static/dashboard-transport.js",
+      "sha256": "723a30916df70b0fa4574ecb6eb78b7311edb5169c9309e567f1a541dd0f3dfc"
+    },
+    {
+      "cell": 196,
+      "path": "smartdust_lab/static/particle-actuators.js",
+      "sha256": "27f03c9c9e68d5ba12c5cbfec43b98d565631f09f8c222d3bd26d2aa184b55b5"
+    },
+    {
+      "cell": 198,
+      "path": "smartdust_lab/static/particle-airframe.js",
+      "sha256": "139caed30d0e5da1132b1f028d201dc058f2585fb7c7b4626130feb5450d2605"
+    },
+    {
+      "cell": 200,
+      "path": "smartdust_lab/static/particle-camera-bridge.js",
+      "sha256": "494430c96c218ae65d08874f2f7ef92264109b1b68bf2e8035452d6ca45e7cb9"
+    },
+    {
+      "cell": 202,
+      "path": "smartdust_lab/static/particle-camera-data.js",
+      "sha256": "6894f06721872a493d752121f6ca853ccaa3e337945d9b5f13dfce7edc7dbbd6"
+    },
+    {
+      "cell": 204,
+      "path": "smartdust_lab/static/particle-camera-hud.css",
+      "sha256": "7de9bcbd5b99070b0909e856dd32465f6ae8c9b1600ca1ae088432d9973b1ca7"
+    },
+    {
+      "cell": 206,
+      "path": "smartdust_lab/static/particle-camera-hud.js",
+      "sha256": "c0192681e0d7e86904d465cdecbd2349ac099b3575234f15afc44b5b97ebf32c"
+    },
+    {
+      "cell": 208,
+      "path": "smartdust_lab/static/particle-camera-plots.css",
+      "sha256": "2e9aae028d5c5668e59bc3a3331347b24525460c1e7b12f522e9d660146b1a85"
+    },
+    {
+      "cell": 210,
+      "path": "smartdust_lab/static/particle-camera-plots.js",
+      "sha256": "a98ec918b1bd905e015aef308bbed65333e22ce1ad89d5c19f66d709610cd02f"
+    },
+    {
+      "cell": 212,
+      "path": "smartdust_lab/static/expedition.js",
+      "sha256": "c288ccead335777342564e8015acda7bb37111148ea5cc316fbe4cb449f7992e"
+    },
+    {
+      "cell": 214,
+      "path": "smartdust_lab/static/free-exploration.css",
+      "sha256": "e35762cd3c56c2c1417cca6b87e10716f87b9aaf7453698aa37b31212959b87d"
+    },
+    {
+      "cell": 216,
+      "path": "smartdust_lab/static/free-exploration.js",
+      "sha256": "4e0f787c5d61b83f7a0b6d2ca3b22b73ba5450f7fa03b2e9e2916d01118b93e8"
+    },
+    {
+      "cell": 218,
+      "path": "smartdust_lab/static/index.html",
+      "sha256": "ea70d5dcc01fb551b37dbb9a1c9a189e89a2edce729d3ad17e8acf17b2c3145a"
+    },
+    {
+      "cell": 220,
+      "path": "smartdust_lab/static/landscapes.css",
+      "sha256": "755f28506cd811834d67e7fc1ab0011d6c6dda1c9d802cd133ab9dcca569b55b"
+    },
+    {
+      "cell": 222,
+      "path": "smartdust_lab/static/landscapes.js",
+      "sha256": "ae10e2f95e0d5e497f19b34f63be96eb76cc81c6d69a5aab254357d45457da65"
+    },
+    {
+      "cell": 224,
+      "path": "smartdust_lab/static/latent-rotors.css",
+      "sha256": "7b00a71565d8959764f3191193cfecf6e61964d4106d7e7e8f0799b4cd3fc89d"
+    },
+    {
+      "cell": 226,
+      "path": "smartdust_lab/static/latent-rotors.js",
+      "sha256": "2bf61de014e3369d75fda5ee8519c4ef89ac93ed941e5567a0254cae50e287bb"
+    },
+    {
+      "cell": 228,
+      "path": "smartdust_lab/static/learning-activity.css",
+      "sha256": "f2120bcc7546bbe7673f20c25bee056cbdeff3c6b67d6a6461b44dd0a60c4f74"
+    },
+    {
+      "cell": 230,
+      "path": "smartdust_lab/static/learning-activity.js",
+      "sha256": "ef5dabc9abf80adb1cd89819287d9862c923595bc76d96c453f553c93bf32cdb"
+    },
+    {
+      "cell": 232,
+      "path": "smartdust_lab/static/learning-charts.js",
+      "sha256": "d9c8dbf1504c597615d34554e307c9d93494587dfecb5cb1f0923df9b2bf3d86"
+    },
+    {
+      "cell": 234,
+      "path": "smartdust_lab/static/live-captions.js",
+      "sha256": "e589785eb7c32e3d46f59ace3dbc18202ea97010208d4ea8aaf121384c9262fa"
+    },
+    {
+      "cell": 236,
+      "path": "smartdust_lab/static/motion.js",
+      "sha256": "b4dfd384c9045e9dc95a73953d9eaf3e0a729b8aeea2b6cadae2d09f28b36ca0"
+    },
+    {
+      "cell": 238,
+      "path": "smartdust_lab/static/observability-probes.css",
+      "sha256": "9acde4d1010514376374be4d613549e6444442b2ee428465ed0d6aa429bb4057"
+    },
+    {
+      "cell": 240,
+      "path": "smartdust_lab/static/observability-probes.js",
+      "sha256": "0b24a129c93da8a00947c54a6e6132d71e828208ffd2e3e31edae381c4021022"
+    },
+    {
+      "cell": 242,
+      "path": "smartdust_lab/static/perception.css",
+      "sha256": "5763b0bd32f9f207a8d0fe0a2e7ba75facd2268ddc36f52b2b578ec7699e3810"
+    },
+    {
+      "cell": 244,
+      "path": "smartdust_lab/static/perception.js",
+      "sha256": "961f30ea8cc61670ea7091150a32ae0fe94a0f0588c320ca941010461893c68b"
+    },
+    {
+      "cell": 246,
+      "path": "smartdust_lab/static/planets.css",
+      "sha256": "daf05ee838339ff31cf7eb9973c3b593f13c24ce051a72adce6e0b207c497c06"
+    },
+    {
+      "cell": 248,
+      "path": "smartdust_lab/static/planets.js",
+      "sha256": "1fa7f26a8a9f5ae4522cd30aa8f19676c1c0ab116aa1ba0e925fed80e92894fe"
+    },
+    {
+      "cell": 250,
+      "path": "smartdust_lab/static/playcanvas-world.js",
+      "sha256": "a13701fcef1b2cd810a0ac2d8f7b659c241412bb7a2d707b02ad24ffe2b8029e"
+    },
+    {
+      "cell": 252,
+      "path": "smartdust_lab/static/renderer-recovery.js",
+      "sha256": "5a978e4db7f075e9689eda593f11b2ed089f29b1bd3edbd5b39edf9361c396ab"
+    },
+    {
+      "cell": 254,
+      "path": "smartdust_lab/static/research-ui.js",
+      "sha256": "7a4d8f0cb88477706b95e82ed33ed32e8c71c654eba460eaa67bfd1c64f71ff2"
+    },
+    {
+      "cell": 256,
+      "path": "smartdust_lab/static/situation.js",
+      "sha256": "59fe705075c357a3feff0c51f172ad19d4f457107fe92e1a73bee753aa9e9afb"
+    },
+    {
+      "cell": 258,
+      "path": "smartdust_lab/static/stable-terrain.js",
+      "sha256": "8e11c048b4c106ed3cee975c6aa4de14cb11d8d678325bc0b22dbe714d1baa31"
+    },
+    {
+      "cell": 260,
+      "path": "smartdust_lab/static/styles.css",
+      "sha256": "f8f2f16f52f6d936414a6bcef5610da0a1710d532d5dcf4d7f532a0c1aba7ac2"
+    },
+    {
+      "cell": 262,
+      "path": "smartdust_lab/static/surface-detail.js",
+      "sha256": "d6d44602c62ec1908b4aa132256d5f818495aa23952c087b0181146c1fea4608"
+    },
+    {
+      "cell": 264,
+      "path": "smartdust_lab/static/surface-worker.js",
+      "sha256": "319018b95cc70522808ccad9ab631839dd363bc2ee449fd5b50cf7568bc48180"
+    },
+    {
+      "cell": 266,
+      "path": "smartdust_lab/static/terrain-mesh-worker.js",
+      "sha256": "77d1e2484a1fed208a42f55187f497bce7f797c725b50e95c0c47f09efb3ad62"
+    },
+    {
+      "cell": 268,
+      "path": "smartdust_lab/static/terrain-resource-cache.js",
+      "sha256": "acdb936a8ca21181b05ad8594c5277fb9d9a45424d8aac97d2e1f0e29b26153f"
+    },
+    {
+      "cell": 270,
+      "path": "smartdust_lab/static/terrain-startup.css",
+      "sha256": "a320417c349d183192ec1ff462d3498e1c3cca4d78810c1d4bbc72d967e9c210"
+    },
+    {
+      "cell": 272,
+      "path": "smartdust_lab/static/terrain-startup.js",
+      "sha256": "54183fc7c1a10e4d116f565589c81fc5c38079054e7a356e122be41d408ce7cb"
+    },
+    {
+      "cell": 274,
+      "path": "smartdust_lab/static/voice-camera-focus.js",
+      "sha256": "09374dd42c463b43fe95620bac5cc01f207c12c3476aa9316a3bc3190bb47a7d"
+    },
+    {
+      "cell": 276,
+      "path": "smartdust_lab/static/voice-tools.js",
+      "sha256": "4be12e016b43e18d65ffee4701decf775e5523739f57cdc7d3084f55bf75a468"
+    },
+    {
+      "cell": 278,
+      "path": "smartdust_lab/static/weather.css",
+      "sha256": "5cb76f9f1d442364160a186d673ed5d950c4ab92ee1bb00f649fdf8775e102fa"
+    },
+    {
+      "cell": 280,
+      "path": "smartdust_lab/static/weather.js",
+      "sha256": "991c04da2cb6a1f534b157949655096c0151b539038f4a37227e723c4ed47a5d"
+    },
+    {
+      "cell": 282,
+      "path": "smartdust_lab/static/worlds/city.scene.json",
+      "sha256": "65f2f0d40d7dc65760cb812d31a87fb289bc8b166bd85916402151e55e0d76c2"
+    },
+    {
+      "cell": 284,
+      "path": "smartdust_lab/static/worlds/city.world.json",
+      "sha256": "4ce7fcabfeb42e5fc866f63c626a4fbf10b860370a04f5942ab297cb9ecbc66b"
+    },
+    {
+      "cell": 286,
+      "path": "smartdust_lab/static/worlds/jungle.scene.json",
+      "sha256": "c01379ba97675c857510f0aca21a0fea87408f2ec84c467bd36956f5c8d38246"
+    },
+    {
+      "cell": 288,
+      "path": "smartdust_lab/static/worlds/jungle.world.json",
+      "sha256": "335cef801bbc7aa5f4077698f7b4f41b6f2b9a52973a4421fc0ca68035b1e363"
+    },
+    {
+      "cell": 290,
+      "path": "smartdust_lab/static/worlds/outdoor.scene.json",
+      "sha256": "21a1cd23fdaf6f1515ef38886478796dcd4bf3aa269ec04d32decc1044b6f28d"
+    },
+    {
+      "cell": 292,
+      "path": "smartdust_lab/static/worlds/outdoor.world.json",
+      "sha256": "f6885223a92c628702c05adbf188f8d4049945d0604a2243656c392cdead24ba"
+    },
+    {
+      "cell": 294,
+      "path": "smartdust_lab/static/worlds/training.scene.json",
+      "sha256": "991d25291cd5f400a83ba220619f4695fd43fd7ab13b9f55f2a8d2e8021a536d"
+    },
+    {
+      "cell": 296,
+      "path": "smartdust_lab/static/worlds/training.world.json",
+      "sha256": "8fd4fb8fa745b5890eefc2225641ca9244578b30594f1476e2e93b558b5b8200"
+    },
+    {
+      "cell": 298,
+      "path": "smartdust_lab/terrain.py",
+      "sha256": "4dee1d3bd03e8237db3bf5a3447ac3703302ed9992a6b2efafb850c2b6b06ac8"
+    },
+    {
+      "cell": 300,
+      "path": "smartdust_lab/terrain_api.py",
+      "sha256": "61c7dab2fc4208b4332f1374372289984ba590f80414e3b12a15571e77c830e5"
+    },
+    {
+      "cell": 302,
+      "path": "smartdust_lab/terrain_cache.py",
+      "sha256": "70a56b0a633d71764d6abfb5f4a86be26766808b06e4523dd36c2aabb909f8d0"
+    },
+    {
+      "cell": 304,
+      "path": "smartdust_lab/terrain_photos.py",
+      "sha256": "00cbd3afd0f998aba89fcc43888c1819bdf322d981d956d232ddaf55374b18df"
+    },
+    {
+      "cell": 306,
+      "path": "smartdust_lab/terrain_transport.py",
+      "sha256": "52283c23611aa06889db60a5210218bca9b7a08ddcf1a48b491a647b5f5bc5af"
+    },
+    {
+      "cell": 308,
+      "path": "smartdust_lab/terrain_variants.py",
+      "sha256": "54a9aa548deb13d315427a8e6932bc67dd2f1898d4903a30b9fe98c387739692"
+    },
+    {
+      "cell": 310,
+      "path": "smartdust_lab/terrain_world.py",
+      "sha256": "fee0198b603ad1b833bb27592943ab908406348b9e82736006088d4ad9c4c795"
+    },
+    {
+      "cell": 312,
+      "path": "smartdust_lab/voice.py",
+      "sha256": "ccf8d0d1b48d292d8b9d757e2284d3663fe7aaf19aa1acb6ffd07337124c836e"
+    },
+    {
+      "cell": 314,
+      "path": "smartdust_lab/weather.py",
+      "sha256": "e40ab5299189363dc99338ceab67dc25d9d0202b6fb1773d2e71c357bb009385"
+    },
+    {
+      "cell": 316,
+      "path": "smartdust_lab/world.py",
+      "sha256": "7cc819bb29831780b4d578a8d0a3694cf0147a8a463b89c33a6b5e90d2ce8212"
+    },
+    {
+      "cell": 318,
+      "path": "pyproject.toml",
+      "sha256": "5c77a5d28d10113b8594df17ff5c979be3146188f1c8cb6200fd12e408974a07"
+    },
+    {
+      "cell": 320,
+      "path": "requirements-ml.txt",
+      "sha256": "f7a3311a1dd0bcc1a090171b64f3b7735fb720010a1d1283170e357e80aa52af"
+    },
+    {
+      "cell": 322,
+      "path": "requirements-pyflyt.txt",
+      "sha256": "c1d93bfc1ee943394755143b0afe230f737a8ca2062c53cbce64941ab5fc8192"
+    },
+    {
+      "cell": 324,
+      "path": "requirements-scientific.txt",
+      "sha256": "362daa96896c9cf62fcc58ad6481f4f76686f153e8a417b79d39e3cf5b87af6b"
+    },
+    {
+      "cell": 326,
+      "path": "requirements.txt",
+      "sha256": "b2d2a3d7c23f06bdc88a5b1ca5c0489cbb199722888bf551b638c5c5fc766a23"
+    },
+    {
+      "cell": 328,
+      "path": "tests/test_cloaking.py",
+      "sha256": "873e0990694cb8d3f01f7ecd5949df7c783ef014bd975dbc9ab409f29d475c8e"
+    },
+    {
+      "cell": 330,
+      "path": "tests/test_hypergraph_memory.py",
+      "sha256": "eba38899770fa66179f73468f4d835a600ea4be4c4de9deebb447bffaec150f1"
+    },
+    {
+      "cell": 332,
+      "path": "tests/test_latent.py",
+      "sha256": "7fe8acc74be1f0a82f0b85013f46596cadf65fd5c0737704fbe58c5ee0e9023b"
+    },
+    {
+      "cell": 334,
+      "path": "tests/test_live_v0170.py",
+      "sha256": "cdb12b174b41de7b6f11968e86f39e9e8229f8e79446036d43e7004d947d12a7"
+    },
+    {
+      "cell": 336,
+      "path": "tests/test_mcts.py",
+      "sha256": "b16a031ba10a4dff5726f9dd41239380cc803e686f26c7c58ab902579af85711"
+    },
+    {
+      "cell": 338,
+      "path": "tests/test_meta_improvement.py",
+      "sha256": "6aaf2fa61ee5c1bf07437e30c7bcf1257d68c2ac1533d3ba01d21365bf19de60"
+    },
+    {
+      "cell": 340,
+      "path": "tests_smart_dust/test_motion_imaging.py",
+      "sha256": "dde8c37061b6ecb729609c52caa07c0d059efe2c91f304d1952f95a22b6ad4f1"
+    },
+    {
+      "cell": 342,
+      "path": "tests_smart_dust/test_particles.py",
+      "sha256": "ca67c55d1deb5435ea54424a7f9e5c0ffeaa4d6e6c18e9ed435c3f411d4483ef"
+    },
+    {
+      "cell": 344,
+      "path": "tests_smart_dust/test_six_geometry.py",
+      "sha256": "ee285657305f46d7b29ccb75845b00a0aa1a2e6c33fb1a9f43660d74faf669d7"
+    },
+    {
+      "cell": 346,
+      "path": "validation/browser_report.json",
+      "sha256": "222f1703fd972a0484e817dd94f6e066e6776950e383c6651fa203fc46ced8a4"
+    },
+    {
+      "cell": 348,
+      "path": "validation/bundle_verification.json",
+      "sha256": "978b98fb8c781d4a62674b3c2f5f0dfbf0e76a6097fdc0dbeedd06273392f96a"
+    },
+    {
+      "cell": 350,
+      "path": "validation/check_six_particles.cjs",
+      "sha256": "778271831e103937c0712a640220570e3bcea11e1b8a14dbffc56c3e10f93004"
+    },
+    {
+      "cell": 352,
+      "path": "validation/launcher_report.json",
+      "sha256": "f27d4171f9880bfa873020f916c1100344d868f3caf8e7a70d5ee8f2c972e962"
+    },
+    {
+      "cell": 354,
+      "path": "validation/particle_reference.wl",
+      "sha256": "e03cbf1b54858a84f4ebc4d4ac1fa8e78149cd00744a161aa46390ffb250ece7"
+    },
+    {
+      "cell": 356,
+      "path": "validation/provenance.json",
+      "sha256": "3fae1bc968cde05266526f03c14964c106502fa27a9967ee660db9f0fd03ded2"
+    },
+    {
+      "cell": 358,
+      "path": "validation/six_browser_report.json",
+      "sha256": "783d20e17fc159ad2b183487788e6cf450682e6f4c11076c2e335c14b0e552d4"
+    },
+    {
+      "cell": 360,
+      "path": "validation/tested_dependencies.json",
+      "sha256": "a72679d50863e09ed824f831d45db8052b4f5ede7216669e7c7e12436c06edad"
+    },
+    {
+      "cell": 362,
+      "path": "validation/tests.txt",
+      "sha256": "a582a820c2c631408b0101f41f261e1bee0e4f15c2b824660bf8c27618e99e51"
+    },
+    {
+      "cell": 364,
+      "path": "validation/tests.xml",
+      "sha256": "cf4836c06f196486f1564c20a49db8f8a5517d88c635c91a5d6a1969d550b168"
+    },
+    {
+      "cell": 366,
+      "path": "validation/v21_geometry_reference.json",
+      "sha256": "7b6f77dc38cff80acd99a2b87c84d88abba358c7d5cbb9c3f95c5897daea295d"
+    },
+    {
+      "cell": 368,
+      "path": "validation/v21_notebook_launch.json",
+      "sha256": "05c65986725e73a8960d29b929142be4649f3342d2d188729cbf1129594b786f"
+    },
+    {
+      "cell": 370,
+      "path": "validation/v21_readable_verification.json",
+      "sha256": "07a7e0c5d6d21803c31f60719ecb7c03465b68b9d1005504792745a6b732c019"
+    },
+    {
+      "cell": 372,
+      "path": "validation/v21_tests.txt",
+      "sha256": "75b894b63e968143d447806de1d22677573fb454786e47906f1cdc2c19daa4c8"
+    },
+    {
+      "cell": 374,
+      "path": "validation/v21_tests.xml",
+      "sha256": "cec7d407a0bed0bda982445a2b72320d48db9fb28d7bce0ba1c2862a4688141e"
+    },
+    {
+      "cell": 376,
+      "path": "validation/v22_browser_report.json",
+      "sha256": "d84cc65128f24d56e3d412ea34e78484b027ca95141f1ab38468e8d242dc84f3"
+    },
+    {
+      "cell": 378,
+      "path": "validation/v22_cnn_training.json",
+      "sha256": "434e3b6e24067e7ebfdc72152d81f4f624fc73fb7a8a0d95264b7798b237a5ec"
+    },
+    {
+      "cell": 380,
+      "path": "validation/v22_material_preview_report.json",
+      "sha256": "3f336c0e72be77e24ba2e1cf4d4d10fb83ca360006c21efa6233f690b95e2821"
+    },
+    {
+      "cell": 382,
+      "path": "validation/v22_notebook_launch.json",
+      "sha256": "227bd336cf27f1c3a0190fc3beabe61234b212da9c2b8ba7a32da782c21fc81e"
+    },
+    {
+      "cell": 384,
+      "path": "validation/v22_tests.txt",
+      "sha256": "a972b5ea501b2bf39257174545b1867802c769177fdbdb8246c03b06351eb2f5"
+    },
+    {
+      "cell": 386,
+      "path": "validation/v22_tests.xml",
+      "sha256": "b8516f64ebd00a5c476ae7598b23e1098be33654b0a22a120051297f7695634f"
+    },
+    {
+      "cell": 388,
+      "path": "validation/v22_video_decode.json",
+      "sha256": "ca5d22fc599244995eba55e7f5cd3f9400a25d00526eaf5bbba13d57259d2b8d"
+    },
+    {
+      "cell": 390,
+      "path": "validation/v22_video_final_report.json",
+      "sha256": "4dc93e85c9155e7edd1c9ac6a29533107021cbc469e4f793de2ddd82ab9310c1"
+    },
+    {
+      "cell": 392,
+      "path": "validation/v22_wolfram_reference.json",
+      "sha256": "eaf124db5d5f1ab108b9f3213a0dc66764c3ba8c46847394a8ea3da2de5ecefe"
+    },
+    {
+      "cell": 394,
+      "path": "validation/v22_wolfram_reference.wl",
+      "sha256": "74ef02a4b52abd06bfdafe404d049f58a8796e686c2de174c93b64f52b93c001"
+    },
+    {
+      "cell": 396,
+      "path": "validation/wolfram_reference.json",
+      "sha256": "6c670a5f4db0c9696c2701fad055197f6694c740f4a8e094b6f41a46af4030d5"
+    },
+    {
+      "cell": 398,
+      "path": "smartdust_lab/particle_coverage.py",
+      "sha256": "9d31a809d46c716dbd1db7c7ce824f9d96c00e21fbffe6ea14d0272568876337"
+    },
+    {
+      "cell": 400,
+      "path": "docs/GLOBAL_MIGRATION_V23.md",
+      "sha256": "50d9b856fb26e06f7a6f709c1833e6a1d438f2d4ad0871f5a2c6c682bb882d7b"
+    },
+    {
+      "cell": 402,
+      "path": "tests_smart_dust/test_global_migration.py",
+      "sha256": "a9d86806dc436adf77cf01325203eb1dd5802343b96e009e2d41611afebeaee5"
+    },
+    {
+      "cell": 404,
+      "path": "validation/v23_browser_report.json",
+      "sha256": "2495eec9bf751c2f78a60cf75bbc3664aded74a06830f98467ffae86832cebf8"
+    },
+    {
+      "cell": 406,
+      "path": "validation/v23_migration_baseline.xml",
+      "sha256": "2375f76a187436b0e7568ce5de3d5cb6a2e632c6809e61c27b1847e584562f3d"
+    },
+    {
+      "cell": 408,
+      "path": "validation/v23_migration_integration.json",
+      "sha256": "52f94a28805a31a4c7c05bb8d8c5c8b6f4e32c9ae01dae38102d1b337247da13"
+    },
+    {
+      "cell": 410,
+      "path": "validation/v23_migration_lifecycle.xml",
+      "sha256": "f0de1278a531fbd397a6f9eac483e92f0273e5b5b8b28b3e8f519229a92d3278"
+    },
+    {
+      "cell": 412,
+      "path": "validation/v23_migration_planning.json",
+      "sha256": "04c2e580dfbf29affbdbd89c0fc96255180f9dc575394462fbc6ea0cbf89d030"
+    },
+    {
+      "cell": 414,
+      "path": "validation/v23_migration_summary.json",
+      "sha256": "85964263710ad2390c849671a7d101ef1655f596cdaaa25326e41ed4f93b3366"
+    },
+    {
+      "cell": 416,
+      "path": "validation/v23_migration_tests.txt",
+      "sha256": "b6136ea0ef8a2a0c185a416b2fdbbe03b70755441840817eb7f2045e9017b60a"
+    },
+    {
+      "cell": 418,
+      "path": "validation/v23_migration_tests.xml",
+      "sha256": "341257a4c9545d72236c3cb1164057e070e1d7855eca2eb88bff4019f74910cc"
+    },
+    {
+      "cell": 420,
+      "path": "validation/v23_wolfram_reference.json",
+      "sha256": "781d4107dbb68fd889305232db7494b42bb2d86f320ff234504c892b6d42fc80"
+    },
+    {
+      "cell": 423,
+      "path": "smartdust_lab/static/playcanvas-2.21.4.min.js",
+      "sha256": "4bdad1d7710b901413388bf6c1422c2bd4aeaed8aefdf535a4332b72db3327cd"
+    },
+    {
+      "cell": 427,
+      "path": "smartdust_lab/private_setup.py",
+      "sha256": "fafe5ddce083219c4ef6ea080f5bec192f271b3fe8fd342d7c6caf1021ebe46a"
+    },
+    {
+      "cell": 429,
+      "path": "docs/API_CLOAK_V24.md",
+      "sha256": "d3350771a8ebc68efdea0b851021f6bc8b1e80127930255ab52eadbc571686ee"
+    },
+    {
+      "cell": 431,
+      "path": "tests_smart_dust/test_private_setup_v24.py",
+      "sha256": "4550bad68e0d2a4ba0520a5a6378e1ee3b39d19856e376184d608fb6400e6bd3"
+    },
+    {
+      "cell": 433,
+      "path": "tests_smart_dust/test_api_diagnostics_v24.py",
+      "sha256": "37b66283d74e131133d8f621b2d9392ef3294aa86fd3c6ed85ba4c12c2265fe0"
+    },
+    {
+      "cell": 435,
+      "path": "validation/v24_ai_ui_report.json",
+      "sha256": "b30c0ed702a7ae112970064e57e5480c5bb567ab98c47ecec6d0b953e348c50a"
+    },
+    {
+      "cell": 437,
+      "path": "validation/v24_cloak_ui_report.json",
+      "sha256": "65418b7d7a307009d48040e23b6b47b2628597b252a18b014039558eb787bc33"
+    },
+    {
+      "cell": 439,
+      "path": "validation/v24_notebook_setup.json",
+      "sha256": "d24b03abf73c74761ab3605a7ed2abd805159eb1e76e670c3657207ca839476c"
+    },
+    {
+      "cell": 441,
+      "path": "validation/v24_regression_tests.xml",
+      "sha256": "dd4930d6d75542f227fa42bb2879ecaaa614b0247c8b7023d3703d9d452f2845"
+    },
+    {
+      "cell": 443,
+      "path": "validation/v24_summary.json",
+      "sha256": "3572cf35aa16536591135a95d6bbf62d2272ae564f56e69e8e183c57ed5e8287"
+    },
+    {
+      "cell": 445,
+      "path": "smartdust_lab/static/particle-capture.js",
+      "sha256": "20b205cfd8e83c0b593a6203ef3557ebe77b4eba5fea353e6a1bb27932afc7f2"
+    },
+    {
+      "cell": 447,
+      "path": "docs/AUTONOMOUS_CAPTURE_V25.md",
+      "sha256": "eba5a4cd9123cedc945d2736a81740f08683307b6bc8253aae651db2e5d6c05c"
+    },
+    {
+      "cell": 449,
+      "path": "smartdust_lab/particle_thermal.py",
+      "sha256": "2a1d3f63dddf1e59bd0b8084a4ca085043991cfc8e8af0dcc62e6657c73036ce"
+    },
+    {
+      "cell": 451,
+      "path": "smartdust_lab/models/particle_thermal_cnn.json",
+      "sha256": "2622be1587690b5ad8c3a2df516f995beb3860e4f8ceaa931dd8f9977623671a"
+    },
+    {
+      "cell": 453,
+      "path": "tools/train_particle_thermal_cnn.py",
+      "sha256": "62781dca4310ab1f3db9fa2cc72fdad55073ddd669bb75b6e5c2a0d601d36a4c"
+    },
+    {
+      "cell": 455,
+      "path": "tests_smart_dust/test_thermal_camera.py",
+      "sha256": "aa96a940229b827bf1ee2f0386cca0b598fe5052d064fca6c8918adde8dddc58"
+    },
+    {
+      "cell": 457,
+      "path": "tests_smart_dust/test_motion_telemetry_v25.py",
+      "sha256": "de36fe6ed8d07fe1f10fe82c97a1f552e02103c7cee9c0eec472b69aa609367a"
+    },
+    {
+      "cell": 459,
+      "path": "tests_smart_dust/browser/test_rear_follow_v25.cjs",
+      "sha256": "31af6f8da39fc4f74683bec55b36217e6a121cf53397a89bc73cb1b0658b5cd6"
+    },
+    {
+      "cell": 461,
+      "path": "validation/v25_capture_fixture.cjs",
+      "sha256": "709decb49f1d90d8add93aa3a476423be2e1db3aa1117351c96ebdb35e1acecc"
+    },
+    {
+      "cell": 463,
+      "path": "validation/v25_capture_fixture_report.json",
+      "sha256": "4cdcc22888c8157c2f346bfb06995ff3bd3a222503e4a33156e664d9afb81ade"
+    },
+    {
+      "cell": 465,
+      "path": "validation/v25_capture_fixture_run.txt",
+      "sha256": "4cdcc22888c8157c2f346bfb06995ff3bd3a222503e4a33156e664d9afb81ade"
+    },
+    {
+      "cell": 467,
+      "path": "validation/v25_capture_lifecycle.cjs",
+      "sha256": "e88a79cb5976e111bfd4d6dad2f5551462da038b19b4b81d2d33a90ff78af635"
+    },
+    {
+      "cell": 469,
+      "path": "validation/v25_capture_lifecycle_report.json",
+      "sha256": "01dba401059f2178ffe970987cfb8e47f17261cfaa1e7409fcfaa16b16040d05"
+    },
+    {
+      "cell": 471,
+      "path": "validation/v25_capture_live_report.json",
+      "sha256": "6a7a88088c996afd23e410fe6f5b5b2efc07532041418a8b38e3bd9c54663c21"
+    },
+    {
+      "cell": 473,
+      "path": "validation/v25_capture_module_cases.cjs",
+      "sha256": "514dd152ea58756ddcb6523d23e4834293b9a559e3205c9e66570d05350da141"
+    },
+    {
+      "cell": 475,
+      "path": "validation/v25_csp_header.json",
+      "sha256": "7b3c8acbdd577b7db480f27d472d76b5656444596dc1a1558e49da0800eaba13"
+    },
+    {
+      "cell": 477,
+      "path": "validation/v25_focused_regressions.xml",
+      "sha256": "00719ab9644c65d6b27b64a05b09c8b61e1c47847fa020aff399ad275c8296d3"
+    },
+    {
+      "cell": 479,
+      "path": "validation/v25_gallery_bounds.cjs",
+      "sha256": "d24cc418761ae8b4853598f85e82b5ed202a9181c0d827e391ffb86bb46603ef"
+    },
+    {
+      "cell": 481,
+      "path": "validation/v25_gallery_bounds_report.json",
+      "sha256": "160427157538cb3cbf28e4c30728eeb7a36366e526024dcac6a71db22914c95c"
+    },
+    {
+      "cell": 483,
+      "path": "validation/v25_gallery_csp.cjs",
+      "sha256": "df8acb1f05dd7c96089d7e1879c53f5e7dcbc2d337e31d08cfcf55bb97ed220f"
+    },
+    {
+      "cell": 485,
+      "path": "validation/v25_gallery_csp_report.json",
+      "sha256": "ca03e1fb70a81798efe6fd5b159892bc5efe03c108811552291aa4ec579cba57"
+    },
+    {
+      "cell": 487,
+      "path": "validation/v25_live_summary.json",
+      "sha256": "3361201b534274eca7242e9dddbd260db076946171cf3e18dfcf0c82a761c267"
+    },
+    {
+      "cell": 489,
+      "path": "validation/v25_live_timing.py",
+      "sha256": "e8aa100ada25af083df69a12403d4e837fed8b6b8fddc1f98300b2b32cffd7b4"
+    },
+    {
+      "cell": 491,
+      "path": "validation/v25_live_timing_baseline.json",
+      "sha256": "08cba2b3f0e699377f3d1db97f3f0fc6f654436215a9e48a9cfc125113340c6b"
+    },
+    {
+      "cell": 493,
+      "path": "validation/v25_live_websocket.py",
+      "sha256": "d50cba1a8703531a3a15a160793dfa4e92d2a0efefefe2f17231f204a4889fd4"
+    },
+    {
+      "cell": 495,
+      "path": "validation/v25_live_websocket_baseline.json",
+      "sha256": "10cca0a9208d501d31a5da6186f5aa52bc5fc35aacfadebcdaa6ff4fd6b4a22f"
+    },
+    {
+      "cell": 497,
+      "path": "validation/v25_notebook_packaging.json",
+      "sha256": "ca3291b3c1d24e54ae7b51187d3be8c9d655a9ff57d7bb283261ddea5ec0e940"
+    },
+    {
+      "cell": 499,
+      "path": "validation/v25_regression_tests.xml",
+      "sha256": "2b9ad46941bfa5122f5f28a89b7f0c9088b2a30ed5b48e30445a8c18f95f1db9"
+    },
+    {
+      "cell": 501,
+      "path": "validation/v25_summary.json",
+      "sha256": "131d80c44d11da07d11a97cff0e51276d22775950e340f88d5a32e0f2119fe12"
+    },
+    {
+      "cell": 503,
+      "path": "validation/v25_thermal_cnn_training.json",
+      "sha256": "0ebcffba29362675129f0bada815112d1f383a335f8c94981dc6539d3d030a51"
+    },
+    {
+      "cell": 505,
+      "path": "validation/v25_thermal_live_report.json",
+      "sha256": "9901db485ed2da1ed604856f6be7eb401d479de07d1b3ff593a6296d78d1bb30"
+    },
+    {
+      "cell": 507,
+      "path": "validation/v25_thermal_optics_wolfram.json",
+      "sha256": "8d32088b217caac513f7459107ad59d87a5ab0ef0cfe8df08c428a01e502dab8"
+    },
+    {
+      "cell": 509,
+      "path": "validation/v25_thermal_render_benchmark.json",
+      "sha256": "bc912516c50058c4ef36fe039bd8d7ffef1536194c6721636f964aae6b39ae86"
+    },
+    {
+      "cell": 511,
+      "path": "validation/v25_thermal_tests.xml",
+      "sha256": "c41ef91d97b6df6095fa15adf0f313f36fe62d0300b56f9e464e1059befd4d48"
+    },
+    {
+      "cell": 513,
+      "path": "validation/v25_visible_compact_report.json",
+      "sha256": "cfef5393c956b3661fa520551ef21bcd4239217288187e78f4e54bf858e6e0cc"
+    },
+    {
+      "cell": 515,
+      "path": "validation/v25_volcanic_capture_observation.json",
+      "sha256": "52ce5730229ae5530e973d496c6e1ae7c791900a008183893ebce0501d181f81"
+    },
+    {
+      "cell": 517,
+      "path": "docs/LAUNCH_MOVEMENT_V26.md",
+      "sha256": "1c05405a432d5154d40eb50833277f49e94c36a3f6163d5408b0c967e43c24a7"
+    },
+    {
+      "cell": 519,
+      "path": "tests_smart_dust/browser/test_motion_display_v26.cjs",
+      "sha256": "1e24ebc57e722a24fd16c3af9b6db7c745cb8a292d8c5d893cdcccff946c395a"
+    },
+    {
+      "cell": 521,
+      "path": "tests_smart_dust/browser/test_slow_render_playback_v26.cjs",
+      "sha256": "e2e612b6a0de8989f4a0e5cfda9e14e3da81ffdea6f990641d89c6fdf8a29d01"
+    },
+    {
+      "cell": 523,
+      "path": "tests_smart_dust/test_launch_motion_v26.py",
+      "sha256": "ccca7136ffbed3c3cd5a704329ee9d7f5a332c61e00a8f1036ff30890da96b4e"
+    },
+    {
+      "cell": 525,
+      "path": "validation/v26_analytic_check.json",
+      "sha256": "420de4348da09f973601727f6a4cca5bfbf6176e6275450ba7071b5b7779a87f"
+    },
+    {
+      "cell": 527,
+      "path": "validation/v26_backend_regression.xml",
+      "sha256": "c9a1508caf80fcbd21111a5a47b68eeca58296b9fe8fcd814ce876cd17d99950"
+    },
+    {
+      "cell": 529,
+      "path": "validation/v26_capture_lifecycle.cjs",
+      "sha256": "399ad79595ebbca9bf732a0798340bdb44f94e024273fd23dab8dc37818dd5fe"
+    },
+    {
+      "cell": 531,
+      "path": "validation/v26_capture_lifecycle_report.json",
+      "sha256": "01dba401059f2178ffe970987cfb8e47f17261cfaa1e7409fcfaa16b16040d05"
+    },
+    {
+      "cell": 533,
+      "path": "validation/v26_final_launch_tests.xml",
+      "sha256": "6c20d2094fd9f0a3bf8f2e431ea2a0d171f7fbfdafc9512f6c59018f2fa14e99"
+    },
+    {
+      "cell": 535,
+      "path": "validation/v26_final_regression.xml",
+      "sha256": "8f59088a68254025415867ce268bd9d3a02831c5d0bfd94b0fe13029901e6242"
+    },
+    {
+      "cell": 537,
+      "path": "validation/v26_global_migration.json",
+      "sha256": "e85a6f68b60a1a5c18676e30e128a97f9ac634499ba370ae05eb995640c4745b"
+    },
+    {
+      "cell": 539,
+      "path": "validation/v26_independent_integration.json",
+      "sha256": "a2112ea89877bef115c9f04727fe35839e5407097921098233cc9bfe5fad37d1"
+    },
+    {
+      "cell": 541,
+      "path": "validation/v26_integration_check.py",
+      "sha256": "4d6bce504a9f7f0258ac233700db56350500dab619d36c43606d49831c4cc5dd"
+    },
+    {
+      "cell": 543,
+      "path": "validation/v26_launch_follow_browser.json",
+      "sha256": "e38fee96029a4f6891a54637f9068f0b824c37db4aed2edaaa3516e5ce13afc4"
+    },
+    {
+      "cell": 545,
+      "path": "validation/v26_migration_test.xml",
+      "sha256": "389a701ae84e24be835377323f47113c2f29dea7c6a36be1536b81272527547b"
+    },
+    {
+      "cell": 547,
+      "path": "validation/v26_slow_render_playback_report.json",
+      "sha256": "b72d7cd48a7bbde99bb7569d551c37a95bb99aa9f3243e02714e23a4c9e17835"
+    },
+    {
+      "cell": 549,
+      "path": "validation/v26_summary.json",
+      "sha256": "d5ad0b9683361e03f95ca97b81758c937f6d6045db8878edee7a343a48cc5541"
+    },
+    {
+      "cell": 551,
+      "path": "docs/FAST_EXPLORATION_V27.md",
+      "sha256": "c32ed8c6e14fd66faa9137523ff0ff5f6310028ccf7a6e75f3cc1509d11d2e92"
+    },
+    {
+      "cell": 553,
+      "path": "smartdust_lab/particle_presets.py",
+      "sha256": "966893a6ca58f208d98050ceb48638df08ab6488da2d3e31abbc2b83a8815ffa"
+    },
+    {
+      "cell": 555,
+      "path": "tests_smart_dust/browser/test_fast_ui_v27.cjs",
+      "sha256": "60e669f7426b6c810ca4b4cd6cee6d3b0c3c79206eef9ae0507e93d14d7465de"
+    },
+    {
+      "cell": 557,
+      "path": "tests_smart_dust/test_fast_physics_v27.py",
+      "sha256": "f54a2a541a72f84ae3119ddcc2c1d38b360b20d69f35cc918a656aa6a3bf2eda"
+    },
+    {
+      "cell": 559,
+      "path": "tests_smart_dust/test_motion_preset_v27.py",
+      "sha256": "fcc3338d09527ecd8adbf239a0a65be01f1ded30e7e716dd097a98392578d834"
+    },
+    {
+      "cell": 561,
+      "path": "validation/v27_fast_trajectory.json",
+      "sha256": "d3d6f2895c64e933cbee716dbc27661e27c27af5a762460dbee469a0e83e26f4"
+    },
+    {
+      "cell": 563,
+      "path": "validation/v27_fast_trajectory.py",
+      "sha256": "6c3a3a13b14cde8e14c188af2f62bb3469a055d45f3d35f9661bf14022683ee0"
+    },
+    {
+      "cell": 565,
+      "path": "validation/v27_fast_trajectory.txt",
+      "sha256": "0dab98aa99b473981edb038d7b0155c63c4e282a4684b696f668325db27cdcfc"
+    },
+    {
+      "cell": 567,
+      "path": "validation/v27_frontend_browser.cjs",
+      "sha256": "af5fc60e6675b8c3d4a7cc63a5e646bcefcee7fb95160074dfcf6d27d7a55de6"
+    },
+    {
+      "cell": 569,
+      "path": "validation/v27_frontend_browser_report.json",
+      "sha256": "611b180245886611e20833a30d90fa8cf47753f5159110abd3ae4982f17d529d"
+    },
+    {
+      "cell": 571,
+      "path": "validation/v27_regressions.txt",
+      "sha256": "9f987b2f573532331f033712a27a7be4d492a4b8a13083c20e6f76e9846f40b3"
+    },
+    {
+      "cell": 573,
+      "path": "validation/v27_regressions.xml",
+      "sha256": "663032383ec06893db5ce5ef7be95eeb48a2233f9c43d32eab934cbbc0b13d61"
+    },
+    {
+      "cell": 575,
+      "path": "validation/v27_summary.json",
+      "sha256": "b895828e5779b67919341409511511c69bb43941e64ac61153907c4949e65fc1"
+    },
+    {
+      "cell": 577,
+      "path": "validation/v27_timestep_check.json",
+      "sha256": "0ca9222d8cf4e304efbe1877566ff5b11787ad4c5daa05c12ab309ade6243a61"
+    },
+    {
+      "cell": 579,
+      "path": "validation/v27_timestep_check.py",
+      "sha256": "54830c1883911e7fade3e6c74f007f4853f2153215c206c8e6e6b9b4fa758152"
+    },
+    {
+      "cell": 581,
+      "path": "validation/v27_timestep_check.txt",
+      "sha256": "0ca9222d8cf4e304efbe1877566ff5b11787ad4c5daa05c12ab309ade6243a61"
+    }
+  ],
+  "non_writefile_code_cells_not_executed": [
+    1,
+    2,
+    421,
+    425,
+    583,
+    584,
+    586,
+    588
+  ]
+}

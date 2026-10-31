@@ -1,0 +1,80 @@
+{
+  "generated_utc": "Scientific evidence frozen 2026-10-31T00:45:00Z",
+  "render": "saved states and editorial diagrams only; no new scientific integration",
+  "indoor_interval_s": [
+    0.18,
+    0.2
+  ],
+  "indoor_slowdown": 1200,
+  "indoor_sampling": "nearest saved sample, rigid wing-envelope schematic",
+  "indoor_geometry": "equivalent374.43038um\u00d780um wing envelope, diagram not to scale; biologically scaled equivalent inertia; not fabricated0.1um membrane",
+  "outdoor": "scalar Fresnel and perfect specular facet model, station loads summed; no coherent cross-station fields rendered",
+  "cinematic": "removed entirely by user request; scientific-only revision",
+  "trace_reveal": "actual saved samples up to displayed time only; no future curves exposed",
+  "outdoor_loop": "Two separate12s saved-data chapters: nominal then corrected_n12. No splice or added states.",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "duration_s": 24,
+    "audio": false,
+    "scope": "unchanged indoor MP4; outdoor format now separately specified"
+  },
+  "inputs": {
+    "smartdust_showcase_20261030/inputs/L40T24_r6_step_confirmation.npz": "e4f8be1f402dd9ab104d5a8608a61208a8c8c196a309242973fb071a05cd7f19",
+    "smartdust_showcase_20261030/inputs/data.json": "25dcc64a8b6cd50dbb9597666ee77dc5c8dcf4d3c4426dc62fe2ce9d15af5b00",
+    "smartdust_showcase_20261030/inputs/outdoor_continuation.json": "5125adfb6b4135cd629f1c7402a7b0e6ca5d1ae70927c918d97eb0c7bf576076",
+    "smartdust_showcase_20261030/inputs/outdoor_root_aware.json": "8e127dc6ea821e75b0677ae57b0c3298f93974eae8b34c9a00938aec479b40aa",
+    "smartdust_showcase_20261030/inputs/outdoor_saved_recovery.json": "3ce57d393780895c317ff20435c41be3c03843385603372d263eb9f68044bc0c"
+  },
+  "source": "9f4e54cbdfac855a2570d7c56e6306ec15c5ea0ef6beca2026591080dc3149ed",
+  "revision": "7: no follow panel; enlarged diagnostic and150m cube; saved supporting signals; offline HTML",
+  "outdoor_cube": {
+    "axis_limits_m": [
+      [
+        -15,
+        135
+      ],
+      [
+        -75,
+        75
+      ],
+      [
+        -75,
+        75
+      ]
+    ],
+    "equal_physical_scale": true,
+    "reference_only": true,
+    "height": "relative simulation coordinate, not absolute altitude",
+    "diagnostics": "Large left full-history 3D view with independent axis scales: x[0,112]m, y[-.9,.9]m, relative z[-.3,1.5]micrometres",
+    "camera": "Right panel common orthonormal150m overview orbit only; follow camera removed"
+  },
+  "outdoor_cube_source": "ed175800824c9b368baf72cf51f3673fa172598c9c89695f17f85761012e5315",
+  "camera_revision_utc": "2026-10-31T01:19Z",
+  "data_unchanged_from_revision4": true,
+  "scientific_evidence_freeze_utc": "2026-10-31T00:45:00Z",
+  "package_revision": "8: presentation revision7 and offline HTML/MD, frozen scientific evidence unchanged",
+  "writeup_references": {
+    "historical_mechanics_docx": {
+      "library_file_id": "libfile_7836fa50d9748191ae4838b74f9fcb9e",
+      "status_snapshot_utc": "2026-10-30T21:45:00Z"
+    },
+    "freeze_update_docx": {
+      "library_file_id": "libfile_72a85abcea1081918d38845e29c5426d",
+      "status_snapshot_utc": "2026-10-31T00:45:00Z"
+    }
+  },
+  "outdoor_format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration_s": 24,
+    "audio": false
+  },
+  "supporting_signals": {
+    "tilt": "saved tilt_rad*180/pi all6",
+    "powers": "particle1 donor_W/receiver_W: allocated useful post-aperture channel powers, not intercepted/electrical power",
+    "equations": "conceptual only; torque about r0; K not computed"
+  }
+}
