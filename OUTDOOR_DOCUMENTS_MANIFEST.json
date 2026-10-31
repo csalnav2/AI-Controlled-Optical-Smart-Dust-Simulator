@@ -1,0 +1,116 @@
+{
+  "scope": "Standalone outdoor documentation only; excludes own self-hash. Historical original-package manifests are distinctly named.",
+  "files": [
+    {
+      "download_file": "OUTDOOR_README.md",
+      "github_destination": "outdoor/README.md",
+      "source": "/tmp/github_export_20261031/outdoor/README.md",
+      "sha256": "c83cbd8e194da40ac95c7cc78fec014de8b0ac62ddc3b486e9b2e48304a1256b",
+      "bytes": 3867,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_APPLICATION_EXPLANATION.md",
+      "github_destination": "outdoor/docs/OUTDOOR_APPLICATION_EXPLANATION.md",
+      "source": "/tmp/math_explanations_20261031/deliverables/OUTDOOR_APPLICATION_EXPLANATION.md",
+      "sha256": "3e86189a129fdf7dc4216b680edceefea902273e5ee988ab42b14e158fb1f169",
+      "bytes": 7157,
+      "notes": "Latest reviewed mathematical explanation, supersedes corresponding original-package doc."
+    },
+    {
+      "download_file": "OUTDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "github_destination": "outdoor/docs/OUTDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "source": "/tmp/math_explanations_20261031/deliverables/OUTDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "sha256": "897a0709414c3e520015658c8c801d864117421c71a04e0e0e640b2babe66be1",
+      "bytes": 9928,
+      "notes": "Latest reviewed mathematical explanation, supersedes corresponding original-package doc."
+    },
+    {
+      "download_file": "OUTDOOR_MATH_SOURCE_MAP.md",
+      "github_destination": "outdoor/docs/MATH_SOURCE_MAP.md",
+      "source": "/tmp/math_explanations_20261031/deliverables/MATH_SOURCE_MAP.md",
+      "sha256": "c868265306c6ab3851a455e8a40db4075599d830e0e19236e4e7fe48abce1e46",
+      "bytes": 1448,
+      "notes": "Shared indoor/outdoor mathematical source map preserved unchanged; relevant outdoor sections identify source locations."
+    },
+    {
+      "download_file": "OUTDOOR_REPRODUCTION.md",
+      "github_destination": "outdoor/docs/REPRODUCTION.md",
+      "source": "/tmp/github_export_20261031/outdoor/docs/REPRODUCTION.md",
+      "sha256": "f28d08968511af6285845c163d9f9f7c17121f07c4fd58846e9f65283f04a739",
+      "bytes": 3951,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_SCIENCE_AND_STATUS.md",
+      "github_destination": "outdoor/docs/SCIENCE_AND_STATUS.md",
+      "source": "/tmp/github_export_20261031/outdoor/docs/SCIENCE_AND_STATUS.md",
+      "sha256": "93a259a76516581ffbb913731e9d276a339af30d158df20bd778f0a7adb6ee01",
+      "bytes": 3565,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_REPLAY.md",
+      "github_destination": "outdoor/presentation/OUTDOOR_REPLAY.md",
+      "source": "/tmp/github_export_20261031/outdoor/presentation/OUTDOOR_REPLAY.md",
+      "sha256": "4e418a5ee4c9b8df7e264509ed745bb7389702995151dfe8ad2cc7dd1b9e2e15",
+      "bytes": 5012,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_ORIGINAL_PACKAGE_FILE_MANIFEST.json",
+      "github_destination": "outdoor/evidence/original_package/FILE_MANIFEST.json",
+      "source": "/tmp/github_export_20261031/outdoor/FILE_MANIFEST.json",
+      "sha256": "99979f64e5dd1b6dbf6858b6f84a8becf47d50c722c6e76d7a7a2cf970a4bc3f",
+      "bytes": 63472,
+      "notes": "Historical unchanged338-file package manifest/QA, NOT a manifest or QA of these updated standalone docs. Paths in this file are relative to original outdoor package root."
+    },
+    {
+      "download_file": "OUTDOOR_ORIGINAL_PACKAGE_SOURCE_PROVENANCE.json",
+      "github_destination": "outdoor/evidence/original_package/SOURCE_PROVENANCE.json",
+      "source": "/tmp/github_export_20261031/outdoor/SOURCE_PROVENANCE.json",
+      "sha256": "6a3b49f015d51562ed848182b1de3f2cc07bb0a2273ca615fdf0f4953cb45fe4",
+      "bytes": 88956,
+      "notes": "Historical unchanged338-file package manifest/QA, NOT a manifest or QA of these updated standalone docs. Paths in this file are relative to original outdoor package root."
+    },
+    {
+      "download_file": "OUTDOOR_ORIGINAL_PACKAGE_STATIC_QA.json",
+      "github_destination": "outdoor/evidence/original_package/STATIC_QA.json",
+      "source": "/tmp/github_export_20261031/outdoor/STATIC_QA.json",
+      "sha256": "441c1c681a2ce173e560bda3460ff871e580a09ebeaa3b2aad27eca61771148c",
+      "bytes": 3095,
+      "notes": "Historical unchanged338-file package manifest/QA, NOT a manifest or QA of these updated standalone docs. Paths in this file are relative to original outdoor package root."
+    },
+    {
+      "download_file": "OUTDOOR_STATIC_EXTRACTION_MANIFEST.json",
+      "github_destination": "outdoor/docs/OUTDOOR_STATIC_EXTRACTION_MANIFEST.json",
+      "source": "/tmp/github_export_20261031/outdoor/docs/OUTDOOR_STATIC_EXTRACTION_MANIFEST.json",
+      "sha256": "759e4e6e304fc22f50e81fffcbb518ab92caddc706574fa4585efb031d431356",
+      "bytes": 48101,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_REPLAY_PROVENANCE.json",
+      "github_destination": "outdoor/presentation/PROVENANCE.json",
+      "source": "/tmp/github_export_20261031/outdoor/presentation/PROVENANCE.json",
+      "sha256": "2e124af960453dc19ad7e478849afe2f5ac8b9080099abe1d97d0a8dcd384767",
+      "bytes": 3585,
+      "notes": ""
+    },
+    {
+      "download_file": "OUTDOOR_CONTRIBUTING.md",
+      "github_destination": "outdoor/CONTRIBUTING.md",
+      "source": "New standalone collaborator guidance; no scientific source changes",
+      "sha256": "f2f9df47c9a2e1a8085f02b62d9d32315a150b456fb27d259da4099854e96b9d",
+      "bytes": 3028,
+      "notes": "New documentation only; no additional legal license."
+    },
+    {
+      "download_file": "OUTDOOR_FILES_AND_DESTINATIONS.md",
+      "github_destination": "outdoor/docs/STANDALONE_FILES.md",
+      "source": "New standalone download/destination map",
+      "sha256": "08035f15f2ba730b731c46b78cd33a0bfa4fcd496490a3707bd201b24f3bf10b",
+      "bytes": 3185
+    }
+  ]
+}
