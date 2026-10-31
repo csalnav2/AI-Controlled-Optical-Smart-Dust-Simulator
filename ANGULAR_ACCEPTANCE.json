@@ -1,0 +1,160 @@
+{
+  "model": "Ideal hard angular acceptance on fixed baseline ray cone, uniform diffuse ambient radiance; no actual optical package",
+  "reference_acceptance_half_angle_deg": 60,
+  "signal_cone_half_angle_deg": 14.036243467926479,
+  "pointing_bounds_deg": 10,
+  "dark_and_excitation_leakage_held_counts": 0.12,
+  "core_tests": {
+    "zero_irradiance_zero_signal": true,
+    "zero_yield_zero_signal": true,
+    "solid_angle_bound": true,
+    "far_field_inverse_square": true,
+    "linear_cross_section": true,
+    "transit_limits_signal": true,
+    "od_increment_tenfold_leakage": true,
+    "stationary_dwell_gate": true,
+    "null_alert_equals_false_alarm": true,
+    "threshold_0.0": true,
+    "threshold_0.01": true,
+    "threshold_1.0": true,
+    "threshold_100.0": true,
+    "threshold_10000.0": true,
+    "identical_fluorescent_objects_indistinguishable": true,
+    "reject_quantum_yield": true,
+    "reject_distance_m": true,
+    "reject_excitation_OD": true,
+    "reject_emission_QE": true
+  },
+  "rows": [
+    {
+      "ambient_rate_reference_s": 1000,
+      "acceptance_half_angle_deg": 60,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 1.12,
+        "threshold_counts": 7,
+        "Pd": 0.9999999998375708,
+        "Pfalse": 0.00016595532332337322
+      },
+      "ten_degree_pointing_signal_lower": 36.825002997528244,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 1000,
+      "acceptance_half_angle_deg": 30,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 0.45333333333333337,
+        "threshold_counts": 5,
+        "Pd": 0.9999999999941969,
+        "Pfalse": 0.00010958429456537497
+      },
+      "ten_degree_pointing_signal_lower": 36.825002997528244,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 1000,
+      "acceptance_half_angle_deg": 15,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 0.2093163974770409,
+        "threshold_counts": 4,
+        "Pd": 0.9999999999992423,
+        "Pfalse": 6.769156518174178e-05
+      },
+      "ten_degree_pointing_signal_lower": 4.693301678307178,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 1000,
+      "acceptance_half_angle_deg": 10,
+      "aligned": {
+        "signal_counts": 18.737487853563874,
+        "background_counts": 0.16020491947606105,
+        "threshold_counts": 3,
+        "Pd": 0.9999987682933078,
+        "Pfalse": 0.0006080020819106538
+      },
+      "ten_degree_pointing_signal_lower": 0.0,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 1000,
+      "acceptance_half_angle_deg": 5,
+      "aligned": {
+        "signal_counts": 4.693301678307178,
+        "background_counts": 0.13012816465852797,
+        "threshold_counts": 3,
+        "Pd": 0.8596669586305323,
+        "Pfalse": 0.0003332085150900914
+      },
+      "ten_degree_pointing_signal_lower": 0.0,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 100000,
+      "acceptance_half_angle_deg": 60,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 100.11999999999999,
+        "threshold_counts": 133,
+        "Pd": 0.6434099366794933,
+        "Pfalse": 0.0009757418031750229
+      },
+      "ten_degree_pointing_signal_lower": 36.825002997528244,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 100000,
+      "acceptance_half_angle_deg": 30,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 33.45333333333333,
+        "threshold_counts": 54,
+        "Pd": 0.9807457659895984,
+        "Pfalse": 0.0006592962016634596
+      },
+      "ten_degree_pointing_signal_lower": 36.825002997528244,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 100000,
+      "acceptance_half_angle_deg": 15,
+      "aligned": {
+        "signal_counts": 36.825002997528244,
+        "background_counts": 9.051639747704089,
+        "threshold_counts": 21,
+        "Pd": 0.9999855779071859,
+        "Pfalse": 0.00047212100661990595
+      },
+      "ten_degree_pointing_signal_lower": 4.693301678307178,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 100000,
+      "acceptance_half_angle_deg": 10,
+      "aligned": {
+        "signal_counts": 18.737487853563874,
+        "background_counts": 4.140491947606106,
+        "threshold_counts": 13,
+        "Pd": 0.9902882243585409,
+        "Pfalse": 0.00037751093495619223
+      },
+      "ten_degree_pointing_signal_lower": 0.0,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    },
+    {
+      "ambient_rate_reference_s": 100000,
+      "acceptance_half_angle_deg": 5,
+      "aligned": {
+        "signal_counts": 4.693301678307178,
+        "background_counts": 1.1328164658527962,
+        "threshold_counts": 7,
+        "Pd": 0.3657915521254364,
+        "Pfalse": 0.00017774384619381801
+      },
+      "ten_degree_pointing_signal_lower": 0.0,
+      "ten_degree_pointing_signal_upper": 36.825002997528244
+    }
+  ]
+}
